@@ -55,6 +55,7 @@ Ele suporta algumas funções incomuns, como:
 - Upgrades Atomicos;
 - Rollbacks.
 
+Devido a sua natureza customizavel o NixOS não possui requerimentos minimos, rodando em qualquer sistema que suporta Linux. Ele tambem por padrão não faz nenhuma modificação para o Kernel Linux, então coisas como gerenciamento de memoria, scheduling, sistemas de arquivos e drivers funcionam do mesmo jeito que outros sistemas.
 
 ---
 transition: slide-up
