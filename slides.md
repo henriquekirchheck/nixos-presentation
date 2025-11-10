@@ -232,6 +232,10 @@ stdenv.mkDerivation rec {
 ```
 ````
 
+<hr>
+
+No final da apresentação irei explicar a derivação de um programa que vocês quiserem do `nixpkgs`
+
 ---
 level: 1
 ---
